@@ -1,5 +1,8 @@
 # Terraform-Apply
 Terraform that provisions a Linux2 EC2 Instance and installs Nginx.
+
+
+
 Install Chocolatey.
 
 Install Terraform:
